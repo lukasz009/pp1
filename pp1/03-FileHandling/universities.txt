@@ -1,100 +1,100 @@
-"Islamic Azad University, Shirvan"
-"Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege"
-Macquarie University
-University of Bari
-Eötvös Lorand University
-Taganrog State University of Radioengineering
-Russian State University for the Humanities
-Université de Béjaia
-Universitas Muhammadiyah Mataram
-Ecole Nationale Supérieure Electricité et Mécanique
-University of Auckland
-Universitas Jenderal Achmad Yani
-Lagrange College
-University of Pitesti
-Suwon University
-Trinity University School of Medicine
-University of the Philippines Los Banos
-Universidade Metodista de Piracicaba
-National College of Ireland
-Technical University of Kielce
-Law University of Bratislava
-Maria Grzegorzewska College for Special Education
-Far Eastern University
-"Institute of Advanced Legal Studies, University of London"
-University of Southern Indiana
-"Arkansas State University, Mountain Home"
-Université de Versailles Saint-Quentin-en-Yvelines
-Kazak National Technical University
-Carlow College
-Mersin University
-Université du Québec en Abitibi-Témiscamingue
-Zhongnan University of Technology
-Bircham International University
-Daniel Webster College
-Hanoi Open University
-State University of New York at Binghamton
-Kazakh British Technical University
-Henan Agriculture University
-Universitat Autónoma de Barcelona
-"California State University, Channel Islands"
-Universidade Tiradentes
-University of Primorska
-London Institute of Management and Technology
-European Institute of Education
-Maranatha Baptist Bible College
-"Central University of Technology, Free State"
+ABTI American University of Nigeria
 Ahi Evran University
-University of Sharjah
-Somaliland University of Technology
-Ural State Academy of Railway Transport
-Cyprus International Institute of Management (CIIM)
-Pakistan Institute of Engineering and Applied Sciences (PIEAS)
-Fukuoka Prefectural University
-University of South Carolina - Aiken
-University of Mustansiriyah
+Alma College
+Arkansas State University, Mountain Home"
+Ave Maria University
 Barry University
+Bellin College of Nursing
+Bircham International University
+California State University, Channel Islands"
+Carlow College
+Central University of Technology, Free State"
+Chiba Keizai University
+Claremont Graduate University
+Cyprus International Institute of Management (CIIM)
+Daniel Webster College
+Dar al Hekma College
+Dhirubhai Ambani Institute of Information and Communication Technology
+Ecole Nationale Supérieure Electricité et Mécanique
+Ecole Supérieure de Commerce de Nantes-Atlantique
+Ecole des Hautes Etudes Commerciales
+Ege University
+European Institute of Education
+Eötvös Lorand University
+Fachhochschule Nürtingen, Hochschule für Wirtschaft, Landwirtschaft und Landespflege"
+Far Eastern University
+Fukuoka Prefectural University
+Georgia Health Sciences University
+Gifu Keizai University
+Gnesins Russian Academy of Music
+Govind Ballabh Pant University of Agriculture and Technology
+Groupe Sup de Co Montpellier
+Hanoi Open University
+Henan Agriculture University
 IMPAC University
+Indian Institute of Technology, Kharagpur"
+Institut National Supérieur de Formation Agro-Alimentaire
+Institute of Advanced Legal Studies, University of London"
+Islamic Azad University, Dehaghan"
+Islamic Azad University, Shirvan"
+Kazak National Technical University
+Kazakh British Technical University
+Lagrange College
+Law University of Bratislava
+London Institute of Management and Technology
+Ludwik Solski State Academy of Theatre in Cracow
+Macquarie University
+Maranatha Baptist Bible College
+Maria Grzegorzewska College for Special Education
+Merlimau Polytechnic
+Mersin University
+National College of Ireland
+National Kaohsiung Normal University
+National Pedagogical University M. Dragomanov 
+Nippon Sport Science University
+Norwegian School of Management BI
+PTPL College
+Pakistan Institute of Engineering and Applied Sciences (PIEAS)
+Russian State University for the Humanities
+Shimonoseki City University
+Somaliland University of Technology
+Staatliche Hochschule für Musik
+State University of New York at Binghamton
+Sultan Azlan Shah Polytechnic 
+Suwon University
+Taganrog State University of Radioengineering
+Technical University of Denmark
+Technical University of Kielce
+Tibet Tibetan Medical College
+Trinity University School of Medicine
+Universidad de Matanzas Camilo Cienfuegos
+Universidade Federal de Lavras
+Universidade Metodista de Piracicaba
+Universidade Tiradentes
+Universitas Jenderal Achmad Yani
+Universitas Muhammadiyah Mataram
+Universitat Autónoma de Barcelona
+Universiteit Doesburg (UNDO)
+University Centre of the Westfjords
+University of Auckland
+University of Bari
+University of Calabria
+University of Central Arkansas
+University of Kalyani
+University of Kota
+University of Mustansiriyah
+University of Peloponnese
+University of Pitesti
+University of Primorska
+University of Sharjah
+University of South Carolina - Aiken
+University of Southern Indiana
+University of the Philippines Los Banos
+Université Paris-Dauphine (Paris IX)
+Université de Béjaia
+Université de Versailles Saint-Quentin-en-Yvelines
+Université du Québec en Abitibi-Témiscamingue
+Ural State Academy of Railway Transport
 Xinjiang University
 Yamagata University
-Claremont Graduate University
-University Centre of the Westfjords
-Nippon Sport Science University
-Université Paris-Dauphine (Paris IX)
-Merlimau Polytechnic
-"Islamic Azad University, Dehaghan"
-Groupe Sup de Co Montpellier
-Bellin College of Nursing
-"Indian Institute of Technology, Kharagpur"
-National Pedagogical University M. Dragomanov 
-National Kaohsiung Normal University
-Norwegian School of Management BI
-University of Calabria
-Tibet Tibetan Medical College
-Shimonoseki City University
-Dhirubhai Ambani Institute of Information and Communication Technology
-Universidade Federal de Lavras
-Gifu Keizai University
-Ludwik Solski State Academy of Theatre in Cracow
-Institut National Supérieur de Formation Agro-Alimentaire
-Gnesins Russian Academy of Music
-University of Peloponnese
-Ave Maria University
-ABTI American University of Nigeria
-PTPL College
-Universidad de Matanzas Camilo Cienfuegos
-Alma College
-Chiba Keizai University
-Staatliche Hochschule für Musik
-Technical University of Denmark
-Georgia Health Sciences University
-Ege University
-Dar al Hekma College
-Ecole Supérieure de Commerce de Nantes-Atlantique
-University of Kalyani
-Ecole des Hautes Etudes Commerciales
-University of Central Arkansas
-Govind Ballabh Pant University of Agriculture and Technology
-University of Kota
-Universiteit Doesburg (UNDO)
-Sultan Azlan Shah Polytechnic 
+Zhongnan University of Technology
